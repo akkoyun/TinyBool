@@ -1,7 +1,6 @@
 # TinyBool Library V1.0
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/akkoyun/TinyBool) ![arduino-library-badge](https://www.ardu-badge.com/badge/TinyBool.svg?) ![Visits Badge](https://badges.pufler.dev/visits/akkoyun/TinyBool) ![GitHub stars](https://img.shields.io/github/stars/akkoyun/TinyBool?style=flat&logo=github) ![Updated Badge](https://badges.pufler.dev/updated/akkoyun/TinyBool) ![PlatformIO Registry](https://badges.registry.platformio.org/packages/akkoyun/library/TinyBool.svg) 
-[![Check Arduino](https://github.com/akkoyun/TinyBool/actions/workflows/check-arduino.yml/badge.svg)](https://github.com/akkoyun/TinyBool/actions/workflows/check-arduino.yml) [![Compile Examples](https://github.com/akkoyun/TinyBool/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/akkoyun/TinyBool/actions/workflows/compile-examples.yml) [![Spell Check](https://github.com/akkoyun/TinyBool/actions/workflows/spell-check.yml/badge.svg)](https://github.com/akkoyun/TinyBool/actions/workflows/spell-check.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/akkoyun/TinyBool) ![Visits Badge](https://badges.pufler.dev/visits/akkoyun/TinyBool) ![GitHub stars](https://img.shields.io/github/stars/akkoyun/TinyBool?style=flat&logo=github) ![Updated Badge](https://badges.pufler.dev/updated/akkoyun/TinyBool) ![PlatformIO Registry](https://badges.registry.platformio.org/packages/akkoyun/library/TinyBool.svg)
 
 ---
 
