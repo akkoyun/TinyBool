@@ -1,19 +1,65 @@
-#ifndef __Defination__
-#define __Defination__
-
-// Define LED Variables
-#define		__RED__							0
-#define		__GREEN__						1
-#define		__BLUE__						2
-
-struct Struct {
-
-	// Library firmware variable
-	const char	Firmware[9];
-
-	// Hardware firmware variable
-	const char	Hardware[9];
-
-};
-
-#endif
+// Define Bit Order
+#define _Bit_00_					(uint8_t)0
+#define _Bit_01_					(uint8_t)1
+#define _Bit_02_					(uint8_t)2
+#define _Bit_03_					(uint8_t)3
+#define _Bit_04_					(uint8_t)4
+#define _Bit_05_					(uint8_t)5
+#define _Bit_06_					(uint8_t)6
+#define _Bit_07_					(uint8_t)7
+#define _Bit_08_					(uint8_t)8
+#define _Bit_09_					(uint8_t)9
+#define _Bit_10_					(uint8_t)10
+#define _Bit_11_					(uint8_t)11
+#define _Bit_12_					(uint8_t)12
+#define _Bit_13_					(uint8_t)13
+#define _Bit_14_					(uint8_t)14
+#define _Bit_15_					(uint8_t)15
+#define _Bit_16_					(uint8_t)16
+#define _Bit_17_					(uint8_t)17
+#define _Bit_18_					(uint8_t)18
+#define _Bit_19_					(uint8_t)19
+#define _Bit_20_					(uint8_t)20
+#define _Bit_21_					(uint8_t)21
+#define _Bit_22_					(uint8_t)22
+#define _Bit_23_					(uint8_t)23
+#define _Bit_24_					(uint8_t)24
+#define _Bit_25_					(uint8_t)25
+#define _Bit_26_					(uint8_t)26
+#define _Bit_27_					(uint8_t)27
+#define _Bit_28_					(uint8_t)28
+#define _Bit_29_					(uint8_t)29
+#define _Bit_30_					(uint8_t)30
+#define _Bit_31_					(uint8_t)31
+#define _Bit_32_					(uint8_t)32
+#define _Bit_33_					(uint8_t)33
+#define _Bit_34_					(uint8_t)34
+#define _Bit_35_					(uint8_t)35
+#define _Bit_36_					(uint8_t)36
+#define _Bit_37_					(uint8_t)37
+#define _Bit_38_					(uint8_t)38
+#define _Bit_39_					(uint8_t)39
+#define _Bit_40_					(uint8_t)40
+#define _Bit_41_					(uint8_t)41
+#define _Bit_42_					(uint8_t)42
+#define _Bit_43_					(uint8_t)43
+#define _Bit_44_					(uint8_t)44
+#define _Bit_45_					(uint8_t)45
+#define _Bit_46_					(uint8_t)46
+#define _Bit_47_					(uint8_t)47
+#define _Bit_48_					(uint8_t)48
+#define _Bit_49_					(uint8_t)49
+#define _Bit_50_					(uint8_t)50
+#define _Bit_51_					(uint8_t)51
+#define _Bit_52_					(uint8_t)52
+#define _Bit_53_					(uint8_t)53
+#define _Bit_54_					(uint8_t)54
+#define _Bit_55_					(uint8_t)55
+#define _Bit_56_					(uint8_t)56
+#define _Bit_57_					(uint8_t)57
+#define _Bit_58_					(uint8_t)58
+#define _Bit_59_					(uint8_t)59
+#define _Bit_60_					(uint8_t)60
+#define _Bit_61_					(uint8_t)61
+#define _Bit_62_					(uint8_t)62
+#define _Bit_63_					(uint8_t)63
